@@ -32,4 +32,3 @@
 
 Estou em busca de oportunidades emocionantes para aplicar e expandir minhas habilidades como desenvolvedor. Se você está procurando um profissional dedicado, apaixonado por tecnologia e pronto para enfrentar novos desafios, adoraria ouvir de você!
 
-Gostou? Fique à vontade para se inspirar e personalizar o seu próprio README! 😄
