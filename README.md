@@ -23,11 +23,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-## Projetos Destacados:
+## Se divirta com esses jogos que eu fiz:
 
-- Projeto X: Descreva um projeto relevante em que você trabalhou, destacando suas contribuições e tecnologias utilizadas.
-- Projeto Y: Mencione outro projeto significativo que você tenha realizado, enfatizando os resultados obtidos.
-
+- Pong: https://andreysson-araujo.github.io/Pong/index.html
+- SnakeJs: https://andreysson-araujo.github.io/snakeGame/index.html
+- PokJumpGame: https://andreysson-araujo.github.io/pok-jump-game/index.html
 
 
 Estou em busca de oportunidades emocionantes para aplicar e expandir minhas habilidades como desenvolvedor. Se você está procurando um profissional dedicado, apaixonado por tecnologia e pronto para enfrentar novos desafios, adoraria ouvir de você!
