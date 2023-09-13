@@ -30,7 +30,7 @@
 
 ## Se divirta com esses jogos que eu fiz:
 
-- Pong: https://andreysson-araujo.github.io/Pong/index.html
+- Pong: https://reliable-tarsier-fe351e.netlify.app
 - SnakeJs: https://andreysson-araujo.github.io/snakeGame/index.html
 - PokJumpGame: https://andreysson-araujo.github.io/pok-jump-game/index.html
 
