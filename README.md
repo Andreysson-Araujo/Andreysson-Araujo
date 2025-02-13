@@ -3,7 +3,7 @@
 ## Desenvolvedor de Software | Estagiário em Programação
 
 - 💼 Atualmente sou estagiário em programação em uma empresa.
-- 🌱 Estou estudando e aprimorando minhas habilidades em React e TypeScript.
+- 🌱 Estou estudando e aprimorando minhas habilidades em React e Laravel.
 - 👨‍💻 Tenho conhecimento em desenvolvimento web, incluindo HTML, CSS e JavaScript e PHP.
 - 🐍 Desenvolvo automações com Python.
 - ⚡️ Apaixonado por criar soluções inovadoras e eficientes para problemas complexos.
