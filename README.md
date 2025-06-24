@@ -25,7 +25,6 @@
 
 ## Artigos Publicados:
 -Sonar um Jogo de acessibilidade:
-## Descrição:
 *Um Projeto apresentado como um jogo desenvolvido por mim como um jogo focado para pessoas com deficiencia visual.
 [SONAR+UM+JOGO+FOCADO+EM+ACESSIBILIDADE+PARA+PESSOAS+COM+DEFICIÊNCIA+VISUAL-1.pdf](https://github.com/Andreysson-Araujo/Andreysson-Araujo/files/12466000/SONAR%2BUM%2BJOGO%2BFOCADO%2BEM%2BACESSIBILIDADE%2BPARA%2BPESSOAS%2BCOM%2BDEFICIENCIA%2BVISUAL-1.pdf)
 
