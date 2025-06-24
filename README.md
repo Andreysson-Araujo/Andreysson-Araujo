@@ -1,6 +1,6 @@
 # Olá, sou o Andreysson! 👋
 
-## Desenvolvedor de Software | Estagiário em Programação
+## Desenvolvedor de Sistemas Web | GameDev
 
 - 💼 Atualmente sou programador no setor publico.
 - 🌱 Estou estudando e aprimorando minhas habilidades em React e Laravel.
