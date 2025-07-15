@@ -26,7 +26,6 @@ Sou apaixonado por tecnologia, criatividade e soluções inteligentes. Atualment
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/GameMaker_Studio_Logo.png" alt="GameMaker Studio" width="40" height="40"/>
 </p>
 
 ---
