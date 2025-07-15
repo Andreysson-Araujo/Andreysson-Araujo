@@ -20,15 +20,13 @@ Sou apaixonado por tecnologia, criatividade e soluções inteligentes. Atualment
 ### 💻 Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/GameMaker_Studio_Logo.png" alt="GameMaker Studio" width="40" height="40"/>
 </p>
 
 ---
@@ -43,7 +41,7 @@ Sou apaixonado por tecnologia, criatividade e soluções inteligentes. Atualment
 
 ### 🎮 Portfólio de Jogos
 
-- 🧟‍♂️ **[Ponte Metálica](https://blood-smash-studios.itch.io/ponte-metalica)** – Jogo de terror ambientado no Acre, desenvolvido em parceria com estúdio independente.
+- 🧟‍♂️ **[Ponte Metálica](https://blood-smash-studios.itch.io/ponte-metalica)** – Jogo de terror ambientado no Acre.
 - 🕹️ **[Pong](https://reliable-tarsier-fe351e.netlify.app)** – Versão web moderna do clássico.
 - 🐍 **[SnakeJs](https://andreysson-araujo.github.io/snakeGame/index.html)** – Clássico jogo da cobrinha feito em JavaScript.
 - 🔥 **[PokJumpGame](https://andreysson-araujo.github.io/pok-jump-game/index.html)** – Um runner inspirado em Pokémon.
