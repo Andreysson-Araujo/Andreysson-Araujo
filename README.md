@@ -43,7 +43,7 @@ Sou apaixonado por tecnologia, criatividade e soluções inteligentes. Atualment
 - 🧟‍♂️ **[Ponte Metálica](https://blood-smash-studios.itch.io/ponte-metalica)** – Jogo de terror ambientado no Acre.
 - 🕹️ **[Pong](https://reliable-tarsier-fe351e.netlify.app)** – Versão web moderna do clássico.
 - 🐍 **[SnakeJs](https://andreysson-araujo.github.io/snakeGame/index.html)** – Clássico jogo da cobrinha feito em JavaScript.
-- 🔥 **[PokJumpGame](https://andreysson-araujo.github.io/pok-jump-game/index.html)** – Um runner inspirado em Pokémon.
+- 🔥 **[PokJumpGame](https://andreysson-araujo.github.io/pok-jump-game/index.html)** – Um runner inspirado no jogo do dinossauro do Google.
 
 ---
 
